@@ -29,7 +29,7 @@ Sou um desenvolvedor Full Stack brasileiro! :brazil:
 
 - :seedling: Buscando se aprimorar ainda mais no desenvolvimento de sistemas.
 
-- :penguin: Gosto de penguins!
+- :penguin: Gosto de pinguins!
 
 ##
 
