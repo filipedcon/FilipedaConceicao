@@ -21,7 +21,7 @@
 Sou um desenvolvedor Full Stack brasileiro! :brazil:
 
 
-- :computer: Atualmente trabalho como Programador de Sistemas de Informação! Contribuindo para automações e criação de sistemas no setor de Hardware in Loop.
+- :computer: Atualmente trabalho como Programador de Sistemas de Informação! Contribuindo para o desenvolvimento de sistemas e ferramentas de geoprocessamento.
 
 - :book: Estudante de Engenharia de Software pela Universidade Católica do Salvador!
 
