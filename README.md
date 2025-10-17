@@ -34,7 +34,7 @@ Sou um desenvolvedor Full Stack brasileiro! :brazil:
 ##
 
 ### :hammer_and_wrench: Languages and Tools :
-[![Linguagens](https://skillicons.dev/icons?i=github,java,php,laravel,py,postgres,sqlite,js,html,css,figma,)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=rails,py,java,js,html,css,react,figma,postgres,git,)](https://skillicons.dev)
 
 
 
