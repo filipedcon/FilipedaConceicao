@@ -21,7 +21,7 @@
 Sou um desenvolvedor Full Stack brasileiro! :brazil:
 
 
-- :computer: Atualmente trabalho como Programador de Sistemas de Informação! Contribuindo para o desenvolvimento de sistemas e ferramentas de geoprocessamento.
+- :computer: Atualmente trabalho como Programador de Sistemas de Informação! Alocado como Electronics Platforms Researcher na Ford Motor Company.
 
 - :book: Estudante de Engenharia de Software pela Universidade Católica do Salvador!
 
